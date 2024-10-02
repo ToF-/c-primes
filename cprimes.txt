@@ -1,0 +1,1 @@
+position 3 bitmask 1 result 0
